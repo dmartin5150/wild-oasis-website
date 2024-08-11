@@ -1,0 +1,13 @@
+.rdp-range_start .rdp-day_button,
+.rdp-range_end .rdp-day_button {
+  background-color:  #926835 !important;
+  /* background-color: green !important; */
+}
+
+.rdp-range_middle .rdp-day_button,
+.rdp-range_middle,
+.rdp-range_start,
+.rdp-range_end  {
+  background-color: #c69963!important;
+  background: #c69963!important;
+}
